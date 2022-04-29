@@ -1,4 +1,4 @@
-[![Header](https://github.com/Dmitrena/dmitrena/blob/main/assets/header.jpg)]
+![Header](https://github.com/Dmitrena/dmitrena/blob/main/assets/header.jpg)
 
 About Me
 
